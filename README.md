@@ -13,6 +13,10 @@ Install pip and virtualenv if you do not already have them.
 
         $ pip install -r requirements.txt
 
+NB: please before run some Samples, set the google application credential from my google project (Brandone Sape) by refering a directory of the file .json from this repo like this :
+In your environnent typing : set GOOGLE_APPLICATION_CREDENTIALS="Directory_of_the_JSON_File"
+Example: set GOOGLE_APPLICATION_CREDENTIALS="C:\Users\username\Downloads\Projet-pubsub-181b21a643d1.json"
+
 Samples Publisher
 
 To run this sample:
